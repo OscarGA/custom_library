@@ -1,4 +1,4 @@
-from src.inner_library import HELLO
+from library_test.src.inner_library import HELLO
 
 
 def greetings(addition_to_greeting: str):
