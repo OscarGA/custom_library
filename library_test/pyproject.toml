@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "custom-library"
+name = "library_test"
 version = "0.1.0"
 description = ""
 authors = ["Oscar-Gomez <oscar.gomez@coxautoinc.com>"]
