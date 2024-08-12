@@ -3,7 +3,6 @@ name = "custom-library"
 version = "0.1.0"
 description = ""
 authors = ["Oscar-Gomez <oscar.gomez@coxautoinc.com>"]
-readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "3.10"
