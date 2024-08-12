@@ -3,6 +3,9 @@ name = "library_test.src"
 version = "0.1.0"
 description = ""
 authors = ["Oscar-Gomez <oscar.gomez@coxautoinc.com>"]
+packages = [
+  {from = "src", include = "*", to = "library_test/src"}
+]
 
 [tool.poetry.dependencies]
 python = "3.10"
